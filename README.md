@@ -69,8 +69,8 @@ Python • MySQL • Figma • Handlebars
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&title_color=9B59B6&icon_color=7F3FBF" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&title_color=9B59B6" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mavs0&show_icons=true&theme=midnight-purple&hide_border=true&title_color=9B59B6&icon_color=7F3FBF" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavs0&layout=compact&theme=midnight-purple&hide_border=true&title_color=9B59B6" />
 
 </div>
 
