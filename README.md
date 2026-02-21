@@ -65,17 +65,6 @@ Python • MySQL • Figma • Handlebars
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mavs0&show_icons=true&theme=midnight-purple&hide_border=true&title_color=9B59B6&icon_color=7F3FBF" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavs0&layout=compact&theme=midnight-purple&hide_border=true&title_color=9B59B6" />
-
-</div>
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/manuela-vieira-62865b225/
